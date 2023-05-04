@@ -14,3 +14,14 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+
+## **Решение**
+1. Создан репозиторий "Final_test_work_1_block".
+2. Ниже представлена блок-схема алгоритма решения поставленной задачи:
+>![Diagram](Блок-схема.png)
+3. Был создан файл с текстовым описанием решения "README.md".
+4. Программа расположена в репозитории по следующей ссылке: https://github.com/MacNill/C--/blob/master/Final_test/Program.cs 
+Результат из терминала:
+> ![Решение_задачи](https://user-images.githubusercontent.com/128186694/236301466-aa3822c8-10c3-4430-94bd-9576cefdfb56.png)
+5. Контроль версий проекта:
+>![Коммиты](https://user-images.githubusercontent.com/128186694/236314467-725c03c6-2772-40f5-99d1-082bebc1928e.png)
